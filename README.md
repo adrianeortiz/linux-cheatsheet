@@ -1,6 +1,8 @@
 ### This project is for the [DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp) for "Operating Systems & Linux Basics" Module ###
 <br />
 
+**Utilize this as a quick cheatsheet for Linux**
+
 **Commands used in the videos:**
 
 <details>
